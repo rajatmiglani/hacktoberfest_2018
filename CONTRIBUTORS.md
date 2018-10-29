@@ -75,6 +75,8 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Kelvin O](https://github.com/kelvinosh)
 
+-   [Rajat](https://github.com/rajatmiglani)
+
 -   [Tara Joy](https://github.com/tarajoy)
 
 -   [Christopher Jones](https://github.com/gChrisj)
