@@ -79,4 +79,4 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Christopher Jones](https://github.com/gChrisj)
 
--   [rajat](https://github.com/rajatmiglani)
+-   [rajat] (https://github.com/rajatmiglani)
